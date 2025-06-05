@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/*
+    600px phones
+    768px tablets
+    992px desktop
+    1200px large screens like TV
+
+*/
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    
+}
